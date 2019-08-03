@@ -1,3 +1,0 @@
-/Applications/MAMP/htdocs/Space_Invader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Applications/MAMP/htdocs/Space_Invader/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Applications/MAMP/htdocs/Space_Invader/cmake-build-debug/CMakeFiles/Space_Invaders.dir
