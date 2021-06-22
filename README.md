@@ -1,5 +1,5 @@
 # Space_Invader
-Space Invaders project in C++ and SFML2.xx
+Space Invaders project in C++ and SFML2.xx (macOS)
 
 Building and Running
 Libraries
